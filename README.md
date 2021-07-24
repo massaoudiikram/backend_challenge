@@ -8,4 +8,5 @@ Develop a REST microservice that list the languages used by the 100 trending pub
 3) run the test.py : create the url requests for the client to display the results. 
 # technologies used 
 Pycharm environment for Python programming 
+
 Flask framework for web application 
